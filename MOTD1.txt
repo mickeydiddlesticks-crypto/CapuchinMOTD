@@ -1,5 +1,7 @@
 Welcome To Capuchin Revived By Soulz
 
-<color=blue><size=180>Owners Are Soulz And Stubert.</color></size>
+<color=blue>Owners Are Soulz And Stubert.</color> <color=red><size=100>AND IMPERSONATING WILL LEAD TO A BAN!</color></size>
 
 <color=red>Update : Fall 2022</color>
+
+please note that this is a test build and there will be bugs! if there are join https://discord.gg/cWYGjsSHm2 and send it somewhere idk just please find a way to report ANY bugs you find that are game breaking not some "monster too slow" or smth 
